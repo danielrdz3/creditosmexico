@@ -1,0 +1,10 @@
+{
+  "description": "This web application offers a user-friendly platform for credit services in Mexico, targeting the older population with a visually appealing design and easy navigation.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
